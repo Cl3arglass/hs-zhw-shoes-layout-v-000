@@ -24,4 +24,12 @@
 
 /* Posititoning Classes */
 
+ figure img:first-child{
+  position: absolute;;
+  left: 120px;
+}
 
+/*.shadow:nth-child(3){
+  position: absolute;
+  right: 0px;
+}*/
