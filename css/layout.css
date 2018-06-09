@@ -24,12 +24,13 @@
 
 /* Posititoning Classes */
 
- /*#brands {
+ #brands {
   float: left;
-}*/
+}
 
 
 #archive {
-  position: absolute;
-  right: 0px;
+  /*position: absolute;
+  right: 0px;*/
+  float: right;
 }
