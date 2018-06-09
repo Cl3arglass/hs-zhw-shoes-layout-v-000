@@ -24,7 +24,7 @@
 
 /* Posititoning Classes */
 
- figure img:first-child{
+ #brands {
   position: absolute;;
   left: 120px;
 }
