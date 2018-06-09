@@ -25,18 +25,9 @@
 /* Posititoning Classes */
 
  #brands {
-  position: absolute;;
-  left: 0px;
+  float: left;
 }
 
-.clearfix:after {
-  content: ".";
-  display: block;
-  clear: both;
-  visibility: hidden;
-  height: 0;
-  line-height: 0;
-}
 
 /*.shadow:nth-child(3){
   position: absolute;
