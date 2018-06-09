@@ -53,3 +53,15 @@
   width: 30%;
 
 }
+
+#first {
+  float: left;
+}
+
+#second {
+  float: left;
+}
+
+#third {
+  float: right;
+}
