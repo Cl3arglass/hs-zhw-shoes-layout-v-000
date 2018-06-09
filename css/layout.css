@@ -29,7 +29,7 @@
 }
 
 
-.shadow:nth-child(3){
+#archive {
   position: absolute;
   right: 0px;
 }
